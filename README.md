@@ -6,6 +6,7 @@ python numeros-ordenados.py
 
 ## Requisitos
 Python3
+
 archivo de entrada: entrada.txt
 
 ## Descripción
