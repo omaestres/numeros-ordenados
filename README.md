@@ -31,16 +31,20 @@ Salida esperada:
 En un archivo llamado salida.txt, por cada línea el mayor número “ordenado” encontrado.
 
 Ejemplo: 
-entrada.txt
++entrada.txt
 3
 20
 132
 1000
 
-salida.txt
++salida.txt
+
 Caso 1: N=20, O=19
+
 Caso 2: N=132, O=129
+
 Caso 3: N=1000, O=999
+
 
 
 
