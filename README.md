@@ -16,10 +16,15 @@ Se requiere un algoritmo que, dado un número N, encuentre el mayor número “O
 
 Ejemplo: 
 N=20, Último número “ordenado”: 19.
+
 N=132, Último número “ordenado”: 129.
+
 N=1000, Último número “ordenado”: 999.
+
 N=8, Último número “ordenado”: 8.
+
 N=11111110, Último número “ordenado”: 9999999.
+
 
 Límites:
 1 ≤ N ≤ 1018
@@ -31,13 +36,18 @@ Salida esperada:
 En un archivo llamado salida.txt, por cada línea el mayor número “ordenado” encontrado.
 
 Ejemplo: 
-+entrada.txt
+entrada.txt
+
 3
+
 20
+
 132
+
 1000
 
-+salida.txt
+
+salida.txt
 
 Caso 1: N=20, O=19
 
