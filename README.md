@@ -1,12 +1,13 @@
 # numeros-ordenados
 Números “ordenados” 
 
-# Ejecución: 
+## Ejecución 
 python numeros-ordenados.py
 
-# Requerimientos
+## Requerimientos
 Python3
 
+## Descripción
 Cierto matemático se ha interesado en lo que él ha denominado números “ordenados”
 
 Un número “ordenado” es un entero en base 10, sin cero a la izquierda, tiene todos sus dígitos ordenados en orden no-descendente. Ejemplos: 9, 234, 888, 1578  y 113399. Algunos números que no cumplen esta propiedad: 30, 432, 596 and 88881.
