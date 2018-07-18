@@ -2,12 +2,12 @@
 Código escrito en Python con la solucion del reto números “ordenados”
 
 ## Ejecución 
-python numeros-ordenados.py
+_python numeros-ordenados.py_
 
 ## Requisitos
 Python3
 
-archivo de entrada: entrada.txt
+archivo de entrada: _entrada.txt_
 
 ## Descripción
 Cierto matemático se ha interesado en lo que él ha denominado números “ordenados”
@@ -32,12 +32,15 @@ Límites:
 1 ≤ N ≤ 1018
 
 Entrada.
+
 Archivo de texto plano entrada.txt. La primera línea contendrá el número de casos de prueba, luego cada línea será un valor de N.
 
 Salida esperada:
+
 En un archivo llamado salida.txt, por cada línea el mayor número “ordenado” encontrado.
 
 Ejemplo: 
+
 entrada.txt
 
 3
