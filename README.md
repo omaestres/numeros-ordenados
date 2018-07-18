@@ -1,11 +1,12 @@
 # numeros-ordenados
-Números “ordenados” 
+Código escrito en Python con la solucion del reto números “ordenados”
 
 ## Ejecución 
 python numeros-ordenados.py
 
-## Requerimientos
+## Requisitos
 Python3
+archivo de entrada: entrada.txt
 
 ## Descripción
 Cierto matemático se ha interesado en lo que él ha denominado números “ordenados”
